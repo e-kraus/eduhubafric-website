@@ -1,7 +1,7 @@
 import React, { FC } from "react"
 import type { HeadFC, PageProps } from "gatsby"
 
-import DefaultLayout from "../layouts/DefaultLayout"
+import DefaultLayout from "../../layouts/DefaultLayout"
 
 export const Head: HeadFC = () => <title>Privacy Policy | EduHubAfric</title>
 
