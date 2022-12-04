@@ -1,6 +1,6 @@
 import React, { FC } from "react"
 import { HeadFC, PageProps } from "gatsby"
-import PageNotFoundImage from "../assets/404.svg";
+import PageNotFoundImage from '../images/404.svg';
 
 const NotFoundPage: FC<PageProps> = () => {
   return (

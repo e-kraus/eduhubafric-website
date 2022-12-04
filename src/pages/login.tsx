@@ -1,7 +1,7 @@
 import React from "react";
 import DefaultLayout from "../layouts/DefaultLayout";
 // import from assets
-import LoginImage from "../assets/login.svg";
+import LoginImage from "../images/login.svg";
 
 export default function Home() {
   return (
