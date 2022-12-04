@@ -13,7 +13,7 @@ const ContactUsPage: FC<PageProps> = () => {
       <section className="bg-white dark:bg-gray-900">
         <div className="container px-6 py-12 mx-auto">
           <div className="lg:flex lg:items-center lg:-mx-6">
-            <div className="lg:w-1/2 lg:mx-6">
+            <div className="lg:w-1/2 lg:mx-6 px-6">
               <h1 className="text-3xl font-semibold text-gray-800 capitalize dark:text-white lg:text-4xl">
                 Contact us for <br /> more info
               </h1>
